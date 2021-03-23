@@ -24,3 +24,5 @@ disabled   		= false
 show_always		= true
 format			= "[$user]($style) "
 
+[battery]
+disabled        = true
