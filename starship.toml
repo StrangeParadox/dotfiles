@@ -24,7 +24,7 @@ read_only           = "🔒"
 read_only_style     = "#ffff00"
 style               = "#46c16d"
 
-format              = "[$path]($style)[$readonly]($read_only_style) "
+format              = "\\[[$path]($style)[$readonly]($read_only_style)\\] "
 
 # format hostname
 [hostname]
